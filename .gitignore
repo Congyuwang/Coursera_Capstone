@@ -1,3 +1,3 @@
 .ipynb_checkpoints/*
-credentials.json
+**/credentials.json
 .vscode
